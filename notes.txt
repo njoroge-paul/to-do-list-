@@ -1,0 +1,4 @@
+//Setting up
+*Install Tailwind
+*Add custom fonts
+*add Icons
